@@ -1,0 +1,19 @@
+{
+  "name": "comandline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ticTac.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devonw/comandLineTicTacToe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devonw/comandLineTicTacToe/issues"
+  },
+  "homepage": "https://github.com/devonw/comandLineTicTacToe#readme"
+}
